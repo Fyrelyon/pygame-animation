@@ -1,0 +1,23 @@
+Spacebar:
+	-Toggles Day and Night.
+		(Day is a strange blue because
+		it is raining.)
+
+L Key:
+	-Triggers a lightning flash.
+
+R Key:
+	-Toggles rain.
+	-Changes day/night colors to fit rain better.
+	-Turns lightning flashes off.
+		(This includes the L key.)
+	-Disables the umbrella.
+		(Does not stop it from moving.)
+Right:
+	-Makes the umbrella go right or stop moving if it was traveling left.
+Left:
+	-Makes the umbrella go left or stop moving if it was traveling right.
+Up:
+	-Makes the umbrella go up or stop moving if it was traveling down.
+Down:
+	-Makes the umbrella go down or stop moving if it was traveling up.
